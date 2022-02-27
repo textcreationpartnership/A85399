@@ -1,0 +1,1049 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Innocencies triumph. Or An answer to the back-part of a discourse lately published by William Prynne, Esquire, intituled, A full reply, &amp;c. The said back-part beginning at the foot of pag. 17. with this superscription; certain briefe animadversions on Mr. John Goodvvins Theomachia, &amp;c. Published by authoritie. By John Goodvvin, pastor of the Church in Colemanstreet.</title>
+            <author>Goodwin, John, 1594?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85399</idno>
+            <idno type="STC">Wing G1174</idno>
+            <idno type="STC">Thomason E14_10</idno>
+            <idno type="STC">ESTC R15803</idno>
+            <idno type="EEBO-CITATION">99859922</idno>
+            <idno type="PROQUEST">99859922</idno>
+            <idno type="VID">154833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154833)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E14[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Innocencies triumph. Or An answer to the back-part of a discourse lately published by William Prynne, Esquire, intituled, A full reply, &amp;c. The said back-part beginning at the foot of pag. 17. with this superscription; certain briefe animadversions on Mr. John Goodvvins Theomachia, &amp;c. Published by authoritie. By John Goodvvin, pastor of the Church in Colemanstreet.</title>
+                  <author>Goodwin, John, 1594?-1665.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton, in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "26 Octob:".</note>
+                  <note>"Published by Authoritie."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  Full reply to Certaine briefe observations and antiqueries on Master Prynnes twelve questions about church-government.</term>
+               <term>Goodwin, John, 1594?-1665. --  Theomachia.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154833:1"/>
+            <pb facs="tcp:154833:1" rendition="simple:additions"/>
+            <p>Innocencies Triumph.
+<hi>OR</hi>
+AN ANSVVER
+TO THE BACK-PART OF
+A Diſcourſe lately publiſhed by <hi>William Prynne,</hi>
+Eſquire, intituled, <hi>A full Reply, &amp;c.</hi> The
+ſaid <hi>Back-part</hi> beginning at the foot of
+<hi>pag.</hi> 17. with this Superſcription; <hi>Certain
+briefe Animadverſions on</hi> M<hi rend="sup">r</hi>. JOHN
+GOODVVINS <hi>Theomachia,</hi> &amp;c.</p>
+            <q>
+               <bibl>PROV. 29. 26.</bibl>
+               <p>Many ſeek the Rulers favour: but every mans judgement cometh from the Lord.</p>
+            </q>
+            <q>
+               <p>Yee are the ſalt of the earth: if the ſalt hath loſt his ſavour, wherewith ſhall it be
+ſalted? It is thenceforth good for nothing, but to be caſt out, and troden under
+foot by men.</p>
+               <bibl>Matth. 5. 13.</bibl>
+            </q>
+            <q>
+               <p>Veritati nemo poteſt praeſcribere, non ſpacia temporum, non patrocinia perſonarum.</p>
+               <bibl>Tertull.</bibl>
+            </q>
+            <q>
+               <p>Bene inſtituti, accipere plagam malunt, quàm turpitur vitare.</p> 
+               <bibl>Cic.</bibl>
+            </q>
+            <q>
+               <l>Sunt qui volunt verum eſſe quod credunt, ſed nolunt credere quod verum eſt.</l>
+               <l>Vngentem pungit—</l>
+            </q>
+            <p>By <hi>JOHN GOODVVIN,</hi> Paſtor of the Church in Colemanſtreet.</p>
+            <p>Publiſhed by Authoritie.</p>
+            <p>LONDON;
+<hi>Printed for,</hi> Henry Overton, <hi>in</hi> Popes-head Alley. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:154833:2"/>
+            <pb n="1" facs="tcp:154833:2"/>
+            <head>A BRIEFE
+ANSVVER TO
+CERTAIN BRIEFE
+OBSERVATIONS
+Upon my late booke, intituled
+THEOMACHIA,
+By WILLIAM PRINNE, Eſquire,
+in Juſtification of ſome paſſages
+in his Independency, &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Ome now, and let us reaſon together (ſaith the Lord</hi>
+himſelf to his people, <hi>Eſa.</hi> 1. 18.) If the learned
+Gentleman, the Author of the mentioned Ob<g ref="char:EOLhyphen"/>ſervations,
+would vouchſafe that courteſie to
+himſelf and me, that we might <hi>reaſon together</hi>
+the points in difference between us, without ei<g ref="char:EOLhyphen"/>ther
+undue aſperſing one the other, or wreſting
+the ſayings one of another, or exaſperating thoſe that ſtand by to
+behold the encounter, againſt one another; he were a man with
+whom I could willingly live and die; yea and could make treaſure
+of the leaſt intereſt that ſhould be vouchſafed unto me in his ac<g ref="char:EOLhyphen"/>quaintance.
+For my part, I truſt, that thorough his Grace who
+hath commanded me, <hi>not to be overcome of evill, but to overcome evill
+with good,</hi> I ſhall be able to carry along my Anſwer without any
+of thoſe miſcarriages: but whether my Antagoniſt hath ſteer'd the
+courſe of this Chriſtian equitie and fairneſſe in his <hi>Obſervations,</hi>
+the firſt part of this Anſwer ſhall informe: In the latter, the ſtrength
+of his reaſonings ſhall have a faire and Chriſtian Triall.</p>
+            <p>
+               <pb n="2" facs="tcp:154833:3"/>
+To begin with that, wherewith he ends, (which yet was the
+beginning of the whole ſyſteme of this diſcourſe againſt me; for
+that which is <hi>ultimum in executione,</hi> is ſtill <hi>primum in intentione.</hi>
+Whereas he incenſeth the Parliament againſt me, as one <hi>that hath
+preſumptuouſly undermined the undoubted priviledges thereof by the very
+roots; and with all chargeth me with ſeverall Anti-Parliamentary paſſa<g ref="char:EOLhyphen"/>ges,
+diametrally contrary to my Nationall Vow and Covenant;</hi> yea and
+(that which is the firſt-born of all his bitter and bloudy inſinua<g ref="char:EOLhyphen"/>tious
+againſt me) preacheth this Doctrine to the Parliament, that
+<hi>they cannot without higheſt perjury permit any wilfully thus to violate
+their Priviledges in the moſt publique manner;</hi> I anſwer,</p>
+            <p>1. That I have no wayes <hi>undermined</hi> (leaſt of all, done any ſuch
+thing <hi>preſumptuouſly</hi>) any <hi>undoubted priviledge of Parliament,</hi> but have
+from the firſt to the laſt, with all uprightneſſe and ſingleneſſe of
+heart, as in the preſence of God, with all my might, and all my
+ſtrength, by Preaching, Writing, Conference, and otherwiſe, en<g ref="char:EOLhyphen"/>devoured
+to aſſert and vindicate the Authoritie, power, and pri<g ref="char:EOLhyphen"/>viledges
+of Parliament, to the utmoſt height, I was able by the moſt
+diligent and unpartiall contemplation to diſcerne their elevation.
+If I have not been, or yet am not ſo quick-ſighted, or ſo able of
+diſcerning to take their true altitude and height, as ſome others,
+I truſt this weakneſſe and incapacitie in my judgement and under<g ref="char:EOLhyphen"/>ſtanding,
+may be atoned with a more gentle ſacrifice, then to be
+arraigned as a <hi>preſumptuous underminer of the undoubted priviledges of
+Parliament,</hi> or to ſuffer after the inſupportable rate of ſuch a
+charge. If I have denied the leaſt dram or ſcruple of that Power,
+which is truly Parliamentary and conſiſtent with the word of the
+great and glorious God (of which miſdemeanor I am not in the
+leaſt meaſure conſcions to my ſelf as yet) I moſt ſeriouſly and ſo<g ref="char:EOLhyphen"/>lemnly
+profeſſe in the preſence of this God (my conſcience bear<g ref="char:EOLhyphen"/>ing
+me witneſſe in the Holy Ghoſt, that I lie not) that I did it out
+of a loving, tender, and affectionate jealouſie over the Parliament,
+leſt poſſibly they might daſh their foot againſt that Stone, by
+which all Rule, and all Authoritie and power, will one day be
+broken in pieces. So that if either my tongue or pen have in the
+leaſt miſcarried upon that point, I may truly ſay that it was, <hi>Error
+amoris,</hi> not <hi>amor erroris,</hi> which cauſed that miſcarriage. I confeſſe
+I am in the habituall and ſtanding frame of my heart and ſpirit,
+<pb n="3" facs="tcp:154833:3"/>
+tender and jealous over all the world, and much more over thoſe
+who are deare unto me, but moſt of all over thoſe who being deare
+unto me, are likewiſe more expoſed then others unto the tentation
+and danger of the ſin; extreamly jealous and tender (I ſay) I am
+over ſuch, leſt they ſhould touch with any title or claime the moſt
+ſacred and incommunicable royalties and priviledges of Heaven,
+and ſo count it no robbery to make themſelves equall to God;
+knowing moſt aſſuredly, that this is a high provocation in the eyes
+of the moſt High, and if continued in, will kindle a fire in the breſt
+of him whoſe Name is <hi>Jealous,</hi> which will conſume and devoure.</p>
+            <p>But. 2. poſitively to determine and judge, That I ſhould tranſ<g ref="char:EOLhyphen"/>greſſe
+the tranſgreſſion charged upon me, <hi>preſumptuouſly,</hi> is little
+leſſe then to claime part and fellowſhip with God himſelfe in
+the incommunicable property and priviledge of his <hi>Omniſcience,</hi>
+or heart-ſearching. It is to the heighth of the line of the grea<g ref="char:EOLhyphen"/>teſt
+and wiſeſt of men, poſitively to determine and conclude
+that to be a ſin, which men of excellent and ſingular endow<g ref="char:EOLhyphen"/>ments
+as well of grace and Holineſs, as of Learning, Judgment, and
+Underſtanding, (and theſe not a few) have not only demurr'd up<g ref="char:EOLhyphen"/>on,
+whether it be a ſin, or no; but (many of them) upon grounds
+and reaſons of very noble and conſiderable importance, determi<g ref="char:EOLhyphen"/>ned
+the caſe <hi>in oppoſitum,</hi> concluding the fact in Queſtion to be no
+ſin: but to determine and conclude further, that hee that hath
+done ſuch a thing, hath not only ſinn'd, but ſinn'd with ſuch
+or ſuch a frame of heart, or upon ſuch and ſuch terms as are
+ſecret, and diſcernible only by God (as wilfulneſs and preſumpti<g ref="char:EOLhyphen"/>on
+in ſinning, for the moſt part are) is to magnifie a mans ſelfe
+above all that is called man, and to ſet himſelf down in Gods
+Throne.</p>
+            <p>3. In caſe it could be prov'd that I have either ſaid or written
+any thing derogatory to the <hi>undoubted priviledges of Parliament,</hi> yet
+that I ſhould do either, <hi>wilfully</hi> or <hi>ſpreſumptuouſly,</hi> (as the tenour of
+my endictment runs from the fore-named pen) is ſuch a charge
+which men, whoſe ungrounded zeal hath not eaten out the heart
+of their charity, cannot lightly but re-charge with unreaſon<g ref="char:EOLhyphen"/>ableneſſe,
+and utter unlikelihood of truth; and that upon theſe
+two grounds, (beſides many others:)</p>
+            <p>I. Becauſe the uninterrupted and conſtant tenour of my de<g ref="char:EOLhyphen"/>portment
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:154833:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:154833:4"/>
+               <pb n="4" facs="tcp:154833:5"/>
+and carriage from the beginning of this Parliament, un<g ref="char:EOLhyphen"/>till
+this hour, hath been fully Parliamentary. If I ſhould boaſt,
+that to my power, <hi>I have not been behinde the very greateſt</hi> of thoſe,
+that have built up the Parliamentary cauſe with the higheſt hand,
+and with the loyalleſt heart; I know that I ſhould not be aſhamed
+in this behalf. Some of my Adverſaries themſelves in place, have
+given a large teſtimony of my faithfulneſſe and diligence in this
+kind. Now, as the Poet ſaith, <hi>Nemo repentè fuit turpiſſimus:</hi> It is
+the moſt unreaſonable and incredible thing under Heaven, that a
+man on the ſudden, within the ſpace of a day, and leſſe, without
+any cauſe or provocation given, ſhould of a friend deeply ingaged,
+and firmly reſolved for the Parliament, be transformed into a <hi>pre<g ref="char:EOLhyphen"/>ſumptuous
+and wilfull underminer of their undoubted Priviledges.</hi>
+            </p>
+            <p>II. The Grounds and Reaſons which I have given in by way
+of account for that opinion, which is the great ſtrife-maker be<g ref="char:EOLhyphen"/>tween
+the Gentlemans pen and mine (together with many others
+ingaged in the ſame warfare, and which are in every mans hand;
+particularly the ten Reaſon propounded and argued in a Treatiſe
+not long ſince publiſhed, called <hi>M. S.</hi> to <hi>A. S.</hi> p. 56, 57, <hi>&amp;c.</hi>
+which have not been anſwered hitherto, no, not ſo much as with
+Anſwer ſo called; and which the Gentleman could not lightly
+think, but that I ſhould have ſeen) being of that weight, and wor<g ref="char:EOLhyphen"/>thy
+that conſideration which many ſober and knowing men ac<g ref="char:EOLhyphen"/>knowledge,
+cannot but in the thoughts and apprehenſions of all
+reaſonable men, juſtifie me, at leaſt from any <hi>preſumptuous</hi> or <hi>wil<g ref="char:EOLhyphen"/>full
+undermining the undoubted Priviledges of Parliament</hi> thereby.</p>
+            <p>4. How can the Gentleman call that <hi>a good pen</hi> (as hee doth
+mine, <hi>p. 23. l.</hi> 4.) which is a <hi>preſumptuous and wilfull underminer of the
+undoubted Priviledges of Parliament?</hi> is not his pen of the conſpira<g ref="char:EOLhyphen"/>cy,
+and made an acceſſary, by giving ſuch a teſtimony to the
+principall?</p>
+            <p>5. Whereas he chargeth me, with I know not how many <hi>Anti-Parliamentary
+paſſages, diametrally oppoſite to the nationall Vow and
+Covenant,</hi> but inſtanceth in none, ſave only that, wherein himſelf
+was touch'd, and that (God knoweth) very gently, and with far
+more honour then cenſure, I anſwer; that certainly no part or
+paſſage of the <hi>Covenant,</hi> did intend<note n="a" place="margin">Omnis lex obligat ſecun<g ref="char:EOLhyphen"/>dum rectam voluntatem legiſlator is obligantis.</note> that any man ſhould obliege
+himſelf by oath or otherwiſe, either unto God orman, to maintain
+<pb n="5" facs="tcp:154833:5"/>
+either ſuch a Power or ſuch Priviledges, as the Power and Privi<g ref="char:EOLhyphen"/>ledges
+of Parliament, which he ſees no ſufficient ground or reaſon
+to call or judge ſuch, at leaſt, that he ſhould maintain them for
+ſuch, during this ſtate and poſture of his judgement &amp; conſcience;
+becauſe this had been to require of men,<note place="margin">Surely the Divines and Commiſſio<g ref="char:EOLhyphen"/>ners of the Kingdome of <hi>Scotland,</hi> who were acceſſa<g ref="char:EOLhyphen"/>ries, if not principalls in the firſt pen<g ref="char:EOLhyphen"/>ning of the <hi>Co<g ref="char:EOLhyphen"/>venant,</hi> muſt needs be pre<g ref="char:EOLhyphen"/>ſum'd to know the in<g ref="char:EOLhyphen"/>tent &amp; mean<g ref="char:EOLhyphen"/>ing of it, aſwell as any other: and yet they publikely, and in print, pro<g ref="char:EOLhyphen"/>feſs and main<g ref="char:EOLhyphen"/>tain the ſame doctrine (for ſubſtance, as will preſently appear) for w<hi rend="sup">ch</hi> I am caſt at the barre of M<hi rend="sup">r</hi>. <hi>Prinne's</hi> tribunall, as one of the greateſt de<g ref="char:EOLhyphen"/>linquents throughout the whole kingdome.</note> that they would ingage
+themſelves by Oath and Covenant to ſin; which intention, if any
+ſuch had been in thoſe that impoſed the Covenant, had been <hi>dia<g ref="char:EOLhyphen"/>metrally</hi>
+oppoſite to the end of the Covenant it ſelf, which was
+the ſafety, benefit and bleſſing of God upon the three kingdomes;
+yea, that ſupreme Authority it ſelf, from which the Covenant
+iſſued with an injunction to have it generally taken, gave liberty
+of interpretation thereof, both unto the Miniſters, who were to
+explain it unto, as well as to preſſe it upon the people; and likewiſe
+unto thoſe who were reſpectively required to take it. Without
+which liberty of interpretation, evident it is to thoſe that converſe
+with men, that many thouſands would have refuſed it, who have
+now ſubmitted themſelves and their conſciences unto it. So that
+the Gentleman doth but beat the aire in this charge of <hi>Anti-Par<g ref="char:EOLhyphen"/>liamentary
+paſſages diametrally contrary to the Nationall Vow and Cove<g ref="char:EOLhyphen"/>nant:</hi>
+He hath not as yet proved any one paſſage of mine to be ſo
+much as <hi>Anti-Parliamentary;</hi> much leſſe any <hi>diametrally contrary to
+that Vow and Covenant.</hi>
+            </p>
+            <p>6. (And laſtly, for thoſe lines mentioned) whereas he ſeeks to
+baptize the Parliament into a ſpirit of much ſeverity againſt mee,
+by ſuggeſting to them, <hi>that they cannot without higheſt perjury permit
+any thus wilfully to violate their Priviledges, &amp;c.</hi> I anſwer, and ſub<g ref="char:EOLhyphen"/>ſcribe
+to him with both my hands; they <hi>cannot</hi> indeed <hi>without ſin
+permit any wilfull violation of their undoubted priviledges:</hi> nor do I
+deſire, nor have I any need or occaſion to deſire of them, that they
+ſhould diſpence with ſo ſacred an obligation upon them for my
+ſake. Let either M<hi rend="sup">r</hi> 
+               <hi>Prynne,</hi> or any other, evict me of any <hi>wilfull
+violation of theſe Priviledges,</hi> and no man ſhall be more ready then
+I, <hi>to crave their pardon,</hi> or elſe to <hi>undergo their juſtice;</hi> nay, if I
+ſhall be convinced of any <hi>violation</hi> at all of <hi>thoſe Priviledges, wil<g ref="char:EOLhyphen"/>full</hi>
+or <hi>unwilfull,</hi> (and I ſhall be as willing as willingneſſe it ſelf
+can make me, to further ſuch a conviction all that may be) I ſhall
+repent my ſelf, and abhorre mine error in duſt and aſhes. I ſhould
+be the maddeſt worme under heaven, to give offence to that foot
+<pb n="6" facs="tcp:154833:6"/>
+which is ſo able to cruſh me, if I had not full conſideration for the
+hazard I run thereby in mine own ſoul.</p>
+            <p>But as concerning that Opinion or Doctrine, which M<hi rend="sup">r</hi>. <hi>Prynne</hi>
+burthens with <hi>Anti-Parliamentariſme,</hi> and whereby I am charged
+<hi>preſumptuouſly to undermine the undoubted priviledges of Parliament by
+the very roots;</hi> I deſire both him and all the world, to conſider,
+whether it hath not a great concurrence, of the judgements and
+conſciences of men of greateſt worth and learning; yea, of whole
+Nationall Churches in their authorized writings; yea, whether
+the ſubſtance and import of it to the full, yea, and more in this
+kinde then I have ever ſaid, or printed, or think ſafe or fitting to
+ſay, hath not been publikely, and in print delivered amongſt us,
+by perſons no wayes ſuſpected of <hi>Anti-Parliamentarineſſe</hi> in any
+kinde; yea, and in ſuch bookes, for which the Author (if hee
+miſtakes not in caſting up the accompt of his own thanks and
+praiſes) hath had large conſiderations in both from many Par<g ref="char:EOLhyphen"/>liament
+men.</p>
+            <p>I begin at home; and appeal to any man of unpartiall thoughts,
+whether theſe enſuing paſſages faithfully tranſcribed out of that
+much admired piece, intituled, <hi>Antapologia,</hi> ſet forth by M<hi rend="sup">r</hi>. <hi>Th.
+Edwards,</hi> do not contain, and that <hi>ſecundum ſub &amp; ſuprà</hi> (as the
+Schoolmen ſpeake) the heighth and depth of that Doctrine, for
+which I muſt not be innocent, except the Parliament means to be
+<hi>guilty of perjury, and that of the higheſt.</hi>
+            </p>
+            <p>Pag. 163. <hi>He affirmes, that</hi> Junius, Zanchius, Ameſius, <hi>&amp;c.</hi> make
+the ſubject matter of Politicall adminiſtration to be, <hi>res humanae,</hi> hu<g ref="char:EOLhyphen"/>mane
+things and matters; but of Eccleſiaſticall, Divine, and Sacred, &amp;c.</p>
+            <p>
+               <hi>Again,</hi> p. 166. <hi>of this ſame Diſcourſe, hee hath this paſſage:
+Or,</hi> 3. Is it that you do give a power to the Magiſtrate in Eccleſiaſticall
+things, of the <hi>ultimate determination</hi> of matters purely Eccleſiaſticall,
+which the Presbyterians principles do not, as in matters of Doctrine,
+Scandall, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Yet again,</hi> p. 168. When the Queſtion is of Church matter, and
+matters of conſcience, and of the inner-man, and of the Kingdome of
+Chriſt, the remedies and meanes appointed for theſe are Spirituall and
+Ecceſiaſticall, <hi>viz.</hi> ſpirituall puniſhments; <hi>Chriſt ſaith,</hi> My Kingdome
+is not of this world, <hi>&amp;c. and the Apoſtle, 2 Cor.</hi> 10. 3, 4, 5. The
+weapons of our warfare are not carnall, &amp;c. Spirituall remedies and
+<pb n="7" facs="tcp:154833:6"/>
+means muſt be uſed in the Kingdome of Chriſt, and by them Chriſt
+doth his work. And hence in Eccleſiaſticall Diſcipline, and thoſe ſcan<g ref="char:EOLhyphen"/>dalls
+in the Church, which are the point in hand; puniſhments <hi>in
+the body, or in the purſe,</hi> which can be by the power of the Magi<g ref="char:EOLhyphen"/>ſtrate,
+have no place.</p>
+            <p>
+               <hi>Again,</hi> p. 170. Firſt, there be many ſins and errors, which the Chri<g ref="char:EOLhyphen"/>ſtian
+Magiſtrate meddles not with, are not matters of his cognizance,
+if you would have recourſe unto him: <hi>Or,</hi> if the ſentence of non-com<g ref="char:EOLhyphen"/>munion
+be pronounced againſt a Church, becauſe of impenitency in them,
+he hath nothing to do to aſſiſt or back it, &amp;c. <hi>According to the tenor
+of this Doctrine, the civill Magiſtrate hath nothing to do, to forti<g ref="char:EOLhyphen"/>fie
+or</hi> back any ſentence, <hi>determination, or decree of the Church:</hi>
+            </p>
+            <p>
+               <hi>Yet again,</hi> p. 174. <hi>of the ſame Treatiſe:</hi> Hath not the wiſ<g ref="char:EOLhyphen"/>dome
+of Chriſt provided remedies in the Church, for all the internall
+neceſſities of the Church, and conſtituted it a perfect body within it ſelf?</p>
+            <p>Again, <hi>p.</hi> 256. Hee ſpeaketh plainly, and ſpeaketh no Pa<g ref="char:EOLhyphen"/>rable;
+that <hi>the Parliament interpoſeth no Authority to determine what
+Government ſhall be;</hi> therefore his opinion appeares to be either
+that the Parliament hath no <hi>Authority,</hi> or at leaſt intends not to
+make uſe of it in determining a Government.</p>
+            <p>
+               <hi>Page</hi> 74. of the ſame Diſcourſe, he preſents <hi>Cameron</hi> allowing
+<hi>the Church a power to ordain and appoint Rites, &amp;c.</hi> but with this
+caution and proviſo: <hi>dum tamen nihil officiant aut ſinceritati doctri<g ref="char:EOLhyphen"/>nae,
+aut libertati conſcientiae; cui propriè leges praeſcribit non niſi Deus,</hi>
+i. upon condition that they neither prejudice the ſoundneſſe of
+Doctrine, nor the liberty of mens conſciences; unto which God
+himſelfe alone properly is the Law-giver.</p>
+            <p>Page 170. <hi>He cites this teſtimony in the margine out of</hi> Zanchy,
+<hi>and that with full approbation of the contents of it</hi>
+               <note n="a" place="margin">Adhaec, multa etiam ſunt ſcelera, in quae ne Magiſtratus quidem Chri<g ref="char:EOLhyphen"/>ſtianus ani<g ref="char:EOLhyphen"/>madvertere ſolet, aut te<g ref="char:EOLhyphen"/>netur ex le<g ref="char:EOLhyphen"/>gibus ſuis, ve<g ref="char:EOLhyphen"/>luti ſunt pri<g ref="char:EOLhyphen"/>vatae in imici<g ref="char:EOLhyphen"/>tiae, ſimulta<g ref="char:EOLhyphen"/>tes, participa<g ref="char:EOLhyphen"/>tio cu<g ref="char:cmbAbbrStroke">̄</g>ldolola<g ref="char:EOLhyphen"/>tris in aliquo impio cultu, diſſimulatio verae Religio<g ref="char:EOLhyphen"/>nis: denique multi mali mores, tum domeſtici tum publici, qui non turbant aut pacem publicam, aut honeſta<g ref="char:EOLhyphen"/>tem, &amp; com<g ref="char:EOLhyphen"/>modum publi<g ref="char:EOLhyphen"/>cum Eccleſia ne iſta qui<g ref="char:EOLhyphen"/>dem ferre de<g ref="char:EOLhyphen"/>bet, ſed corri<g ref="char:EOLhyphen"/>gere juxta Chriſti inſti<g ref="char:EOLhyphen"/>tutum. <hi>Zanch.</hi> de Diſcip Ec<g ref="char:EOLhyphen"/>cleſiaſt.</note> Moreover,
+there are many evills which the Chriſtian Magiſtrate is not wont to
+meddle with by way of puniſhment, nor yet is bound by his Lawes to do
+it, as private quarrells, and heart-burnings between man and man,
+partaking with Idolaters in an impious or unlawfull worſhip, diſſem<g ref="char:EOLhyphen"/>bling
+the true Religion; and to conclude, there are many evill car<g ref="char:EOLhyphen"/>riages,
+both private and publike, which do not trouble or diſturb ei<g ref="char:EOLhyphen"/>ther
+the publike peace, or honeſty, and the publike profit. The Church
+indeed ought not to ſuffer theſe, but to reforme them according to
+Chriſts inſtitution, &amp;c.</p>
+            <p>
+               <pb n="8" facs="tcp:154833:7"/>
+But laſtly for this Domeſtique Author, whoſe judgement and
+abilities for the cauſe he undertakes, I finde ſo much magnified,
+he hath a ſaying, <hi>pag.</hi> 169. of the fore-mentioned Treatiſe, diſho<g ref="char:EOLhyphen"/>nourable
+indeed (in my apprehenſion) to the Civill Magiſtrate,
+and wherein I can at no hand ſubſcribe unto him. <hi>The power of the
+Magiſtrate</hi> (ſaith he) <hi>by which he puniſheth ſin, doth not ſubſerve to
+the Kingdome of Chriſt the Mediator.</hi> I conceive farre otherwiſe of
+<hi>this power,</hi> and that the maine end and moſt excellent uſe of it,
+conſiſts in a <hi>ſubſerviency to the Kingdome of Chriſt the Mediator.</hi> The
+moſt noble exerciſe and imployment of civill power, is (doubtleſſe)
+to provide for the immunitie and peace of the Saints within their
+juriſdictions, to protect them againſt all injuries and violence of
+men, by Edicts, Statutes, and Lawes, with the due adminiſtration
+and execution of them,<note place="margin">1 Tim. 2. 2.</note> to provide that ſuch <hi>may lead a quiet and
+peaceable life in all godlineſſe and honeſtie</hi> (as the Apoſtle ſpeaketh)
+that <hi>the Goſpel may run</hi> freely, and without interruption, (and <hi>be
+glorified,</hi> if God ſhall vouchſafe to proſper the miniſtery of it ac<g ref="char:EOLhyphen"/>cordingly)
+thoroughout their dominions. In a word, whatſoe<g ref="char:EOLhyphen"/>ver
+maketh for the benefit, ſafetie, and honour of the whole Com<g ref="char:EOLhyphen"/>munitie
+and Societie of perſons fearing God within the limits of
+their juriſdiction, without the preſſure or juſt grievance of others,
+the Civill Magiſtrate (I conceive) hath not onely a power, but a
+neceſſitie by way of dutie lying upon him, to interpoſe for the pro<g ref="char:EOLhyphen"/>curing
+and eſtabliſhing of ſuch things. Of this nature were all
+thoſe ingagements, <hi>Statutes, and Decrees,</hi> of <hi>Cyrus, Artaxerxes, Da<g ref="char:EOLhyphen"/>rius,
+and other heathen Princes and Magiſtrates, for the building of
+Gods Temple, and advancement of his worſhip,</hi> which M<hi rend="sup">r</hi>. <hi>Prinne</hi> inſiſts
+upon, <hi>p.</hi> 23. but quite beſides the point in difference between him
+and me. For theſe <hi>Princes and Magiſtrates</hi> did not by any of their
+<hi>Statutes or Decrees,</hi> impoſe any thing upon the people of God in
+point of worſhip under mulcts and penalties, much leſſe did they
+ſo impoſe any thing upon the generalitie of them, which was con<g ref="char:EOLhyphen"/>troverſiall,
+and matter of conſcience between them, by means of
+which impoſition the one half of them ſhould have been gratified,
+and the other half ruin'd and oppreſſed. But thoſe Statutes and
+Decrees equally reſpected the common and publique good of them
+all, and contained nothing oppreſſive to the judgements or con<g ref="char:EOLhyphen"/>ſciences
+of any, nor any new determination of any thing ap<g ref="char:EOLhyphen"/>pertaining
+<pb n="9" facs="tcp:154833:7"/>
+to the <hi>worſhip and ſervice of God,</hi> under <hi>mulcts and
+penalties.</hi>
+            </p>
+            <p>But concerning the point which is made matter of ſuch high
+accuſation againſt me, beſides the judgement of M<hi rend="sup">r</hi>. <hi>Edwards,</hi> ſo
+ſignificantly and expreſly, and that over and over, concurring
+therein, there are other Authors of our owne, who have every
+whit <hi>in as publique a manner</hi> as I held forth the ſame unto the
+world, and that without the leaſt check or controulement by
+any, that ever I (or I think any man elſe) heard of. <hi>All the
+chiefe Writers of our age</hi> (ſaith M<hi rend="sup">r</hi>. Hayward<note n="a" place="margin">
+                  <hi>Haywarad</hi> in his anſwer to <hi>R. Dolman,</hi> dedicated to King <hi>James,</hi> cap. 9.</note>) <hi>are now reduced to the
+former opinion, affirming with Arnobius that Religion is of power ſuffi<g ref="char:EOLhyphen"/>cient
+for it ſelf: with Tertullian, Lactantius, Caſſiodorus, Joſephus,
+Bernard, and others, that Religion muſt be perſwaded, not inforced.</hi>
+And that is moſt remarkable in this teſtimony, that the Author
+therein affirms, that this opinion againſt the <hi>inforcing of Religion,</hi>
+was both the ancient opinion in the Church of God, and is now
+againe become the generall opinion of <hi>the beſt Writers in our age.</hi>
+The ſame Author in the ſame Chapter (ſomewhat before the
+words laſt cited) lays downe theſe as Maximes or common rules;
+That <hi>it is fooliſh to adde externall ſtay, to that which is ſufficient to ſup<g ref="char:EOLhyphen"/>ſort
+it ſelf;</hi> That <hi>it is ſenſleſſe to attempt that by force, which no force is
+able to effect;</hi> That <hi>that which hath a proper rule, muſt not be directed
+by any other.</hi>
+            </p>
+            <p>Biſhop <hi>Jewel,</hi> in his Anſwer to <hi>Hardings</hi> Confutation, <hi>pag.</hi> 432.
+hath this ſaying to him; <hi>As for our part, we were never yet guiltie to
+one drop of your bloud: we ſeek no aid at fire or ſword.</hi> Let this Text
+be truly interpreted, and it will afford the ſame doctrine with
+mine.</p>
+            <p>
+               <hi>The Divines of the Church of</hi> Scotland, <hi>Diſcipl. lib. 2. p.</hi> 89.
+<hi>write thus:</hi> The Nationall aſſemblies ought alwayes to be received in
+their own liberty and have their own place—And all men, as well Magi<g ref="char:EOLhyphen"/>ſtrate
+as inferiours, to be ſubject to the judgement of the ſame in Eccleſi<g ref="char:EOLhyphen"/>aſticall
+cauſes without any reclamation or appellation to any Judge, Civill
+or Eccleſiaſticall, within the Realme.</p>
+            <p>
+               <hi>And again,</hi> p. 71. <hi>of the ſame Book;</hi> The Magiſtrate neither ought
+to preach, miniſter the Sacraments, nor execute the cenſures of the Kirk,
+<hi>nor yet preſcribe any rule how it ſhould be done,</hi>
+               <pb n="10" facs="tcp:154833:8"/>
+but command the Miniſters to obſerve the rule commanded in the Word,
+and puniſh tranſgreſſors by civill means.—The Magiſtrate <hi>OUGHT</hi>
+to aſſiſt, maintaine, and fortifie the Juriſdiction of the Kirk: the Mi<g ref="char:EOLhyphen"/>niſters
+<hi>SHOULD</hi> aſſiſt their Princes.</p>
+            <p>
+               <hi>The ſame Divines in another book of theirs, called</hi> A Diſpute
+againſt the Engliſh Popiſh Ceremonies obtruded upon the Church of Scot<g ref="char:EOLhyphen"/>land;
+<hi>p. 146. write thus:</hi> Now therefore, wee firmly hold, that the
+Prince may not innovate any Cuſtome or Rite of the Church, nor <hi>pub<g ref="char:EOLhyphen"/>liſh
+any Eccleſiaſticall Law,</hi> without the free aſſent of the
+Clergie, &amp;c. yea, further, that ſo far as is poſſible, the conſent of the
+whole Church ought to be had, whenſoever any change is to be made of
+ſome Order or Cuſtome in the Church. <hi>A few lines after,</hi> p. 147. <hi>they
+cite this ſaying (with approbation) out of</hi> Baldus <hi>De Caſ. Conſc.
+l. 4. c. 11. Caſ.</hi> 2. They who were Orthodox did ever withſtand ſuch a
+Magiſtrate as would have by his commandments tied the Church to that
+which was burthenſome to their conſciences. <hi>And yet again in the
+ſame</hi> page: It belongeth to the Synod (the Clergie having the chiefe
+place therein to give direction and advice) not to receive and approve
+the definition of the Prince in things which cocerne the worſhip of
+God, but it ſelfe to define and determine what Orders and Cuſtomes
+are fitteſt to be obſerved, &amp;c.</p>
+            <p>
+               <hi>Again,</hi> p. 149. The Prince may command a Synod of the Church to
+judge of Eccleſiaſticall things and actions, and to define what Order
+and Policy is moſt convenient to be obſerved in divine worſhip; yet hee
+<hi>may not by himſelf define</hi> and direct ſuch matters, <hi>nor
+make any Lawes</hi> there anent.</p>
+            <p>
+               <hi>Again,</hi> p. 148. <hi>having cited much out of</hi> Junius, <hi>concerning
+the difference between the Civill and Eccleſiaſticall Adminiſtrati<g ref="char:EOLhyphen"/>on,
+in reſpect of the ſubject matter of either, the cloſe of this long
+citation they make thus.</hi> But humane things, wee call ſuch duties as
+touch the life, the body, goods, and good name, as they are expounded
+in the ſecond table of the Decalogue: for theſe are the things in which
+the whole Civill adminiſtration ſtandeth. <hi>Yet again,</hi> p. 150. It fol<g ref="char:EOLhyphen"/>loweth
+that Chriſt hath committed the power of judging, defining, and
+making Lawes about thoſe matters, (<hi>viz.</hi> which concern the worſhip of
+God, <hi>not to Magiſtrates,</hi> but to the Miniſters of the Church.</p>
+            <p>
+               <pb n="11" facs="tcp:154833:8"/>
+               <hi>Again,</hi> p. 150. Surely, if it belong to Princes to define and ordain
+what Order and Policy ſhould be obſerved in the Church, for the orderly
+and right managing of the exerciſes of Gods worſhip—then muſt
+Princes take alſo upon them a great part of that charge of Paſtors, to
+watch for the ſoules of men. <hi>Learned M<hi rend="sup">r</hi>.</hi> Rutherford, <hi>one of the
+Commiſſioners for the Church of</hi> Scotland, <hi>in his late Booke,
+intituled,</hi> The due Rights of Presbyteries, <hi>part.</hi> 2. p. 403. <hi>writeth thus:</hi>
+The King as King, <hi>hath not a nomothetick or Le<g ref="char:EOLhyphen"/>giſlative
+power to make Laws in matters Eccle<g ref="char:EOLhyphen"/>ſiaſtique</hi>
+in a conſtitute Church, nor hath hee a definitive ſentence
+as a Judge. <hi>Another paſſage hee hath to the ſame effect,</hi> p. 389.
+<hi>yea, hee profeſſedly handles, and maintaines this concluſion, that</hi>
+the ordinary power of the Magiſtrate is not to make Church-Lawes,
+<hi>from</hi> page 404. <hi>of the ſecond part of that work, to</hi> page 423.
+<hi>incluſively.</hi>
+            </p>
+            <p>
+               <hi>Maſter</hi> Fox, Act. &amp; Mon. p. 1338. (<hi>of the ancient impreſſion)
+records this paſſage out of a book, written (as is affirmed) by
+that worthy Martyr, Maſter</hi> Tyndall, <hi>and cenſured by the Popiſh
+Biſhops of thoſe times, as hereticall:</hi> The new Teſtament of Chriſt
+will not ſuffer any Law of compulſion, but only of counſell and ex<g ref="char:EOLhyphen"/>hortation.
+<hi>And again,</hi> p. 1337. All things neceſſary are declared in
+the new Teſtament: but no man is compelled, but according to their
+own will.</p>
+            <p>Calvin <hi>Inſtitut.</hi>
+               <note place="margin">Nam cum Ec<g ref="char:EOLhyphen"/>cleſia cogendi non habeat poteſtatem, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> expetere debeat (de ci<g ref="char:EOLhyphen"/>vili coercitio<g ref="char:EOLhyphen"/>ne loquor) piorum Re<g ref="char:EOLhyphen"/>gum ac Prin<g ref="char:EOLhyphen"/>cipum partes ſunt legibus, edictis, judi<g ref="char:EOLhyphen"/>clis Religioné ſuſtentate.</note> 
+               <hi>l. 4. c.</hi> 11. § 16. denies the Church to have any
+compulſive power in it; yea, and denies it to be lawfull for the Church
+to ſeek for any ſuch power, at the hand of the civill Magiſtrate:
+only affirming, that it is the duty of Religious Kings and Princes to
+ſupport Religion, by Lawes, Edicts and Judicatories, (<hi>viz.) of that
+kinde and nature, of which the Lawes, and Statutes of</hi> Cyrus,
+Artaxerxes, <hi>and</hi> Darius, <hi>before mentioned were.</hi>
+            </p>
+            <p>
+               <hi>Beza</hi> likewiſe in his Tractate <hi>De Haereticis, à magiſtr. puniendis,
+p.</hi> 93. hath theſe words: <hi>Condendarum enim conſcientiae legum poteſta<g ref="char:EOLhyphen"/>tem
+Deus nulli hominum fecit: ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ferre poteſt quenquam hominum
+animis praeter ſe unum dominari;</hi> that is, God hath not given power
+unto any man whatſoever, to make Lawes for the conſciences of
+men: nor can hee indure that any but himſelf ſhould beare rule
+over the mindes of men.</p>
+            <p>
+               <pb n="12" facs="tcp:154833:9"/>
+Jacobus Acontius, <hi>a man of much piety and worth, who fled for
+his Conſcience, took Sanctuary at this Kingdome, in his book
+intituled,</hi> Stratagem ita Sathanae, <hi>dedicated to Queen</hi> Elizabeth,
+<hi>reprinted at</hi> Oxford 1631. pag. 166. <hi>writeth to this effect;</hi>
+               <note n="a" place="margin">Ut veroru<g ref="char:cmbAbbrStroke">̄</g> Dei ſervorum ſaluti conſu<g ref="char:EOLhyphen"/>let<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, negavit [Chriſtus] pi<g ref="char:EOLhyphen"/>i<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ac pruden<g ref="char:EOLhyphen"/>tibꝰ magiſtra<g ref="char:EOLhyphen"/>tibus in vero, hareticos animadvertendi poteſtatem, ne eorum exemplo impii at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> impruden<g ref="char:EOLhyphen"/>tes in pios abuterentur Dei ſervos.</note> That
+be (meaning Chriſt, in the parable of the tares) might provide for the
+ſafety of the true ſervants of God, denied all power, even to pious and
+prudent Magiſtrates themſelves, of puniſhing Heretiques, leſt thoſe that
+are impious and unwiſe, ſhould make an evill uſe of their example againſt
+the good ſervants of God.</p>
+            <p>
+               <hi>Againe,</hi> pag. 164. <hi>thus;</hi>
+               <note n="b" place="margin">Dominus profectò defi<g ref="char:EOLhyphen"/>nitè declara<g ref="char:EOLhyphen"/>vit, Magiſtra<g ref="char:EOLhyphen"/>tus non eſſe idoneos dogmatum Judices, interdixít<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> illis talis juriſdictionis uſu omni, &amp;c.</note> The Lord verily definitively declared
+that Magiſtrates are not competent Judges of opinions [<hi>in matter of Re<g ref="char:EOLhyphen"/>ligion,</hi>] but prohibited all ſuch juriſdiction unto them.</p>
+            <p>
+               <hi>Yet againe the ſame Author in the ſame Diſcourſe,</hi> pag. 165.
+<note n="c" place="margin">Haec quide<g ref="char:cmbAbbrStroke">̄</g> judicioru<g ref="char:cmbAbbrStroke">̄</g> ge<g ref="char:EOLhyphen"/>nera ad Magi<g ref="char:EOLhyphen"/>ſtratum non pertinent, ſed ad ſolum Dei filium, qui in noviſſimo die per Angelos ſeparaturus ſit à tritico zizania.</note> Theſe kinds of judgements appertaine not to the Magiſtrate, but one<g ref="char:EOLhyphen"/>ly
+to the Son of God, who in the laſt day will ſeparate the tares from the
+wheat by his Angels. <hi>Beſides much more to the ſame purpoſe.</hi>
+            </p>
+            <p>Junius, Controverſ. 3. lib. 3. cap. 26. ſect. 12. <hi>hath theſe words;</hi>
+               <note n="d" place="margin">Cum res aliae ſunt con<g ref="char:EOLhyphen"/>ſcie<g ref="char:cmbAbbrStroke">̄</g>tiae, ad fo<g ref="char:EOLhyphen"/>rum coeli (ut cu<g ref="char:cmbAbbrStroke">̄</g> Canoniſtis loquamur) pertinentes, aliae ſunt hu<g ref="char:EOLhyphen"/>manae at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ad forum ſoli; in rebus ſacris, divinis, eccleſiaſticis nunquam judicium Magiſtratui Civili, ac ne Imperatori quidem delatum eſt legitimè: quia res ſacrae ſunt regni &amp; cognitionis alterius.</note> Whereas ſome things are matters of conſcience, and (to ſpeak with the
+Canoniſts) belong to the judicatory of Heaven; others, humane and tem<g ref="char:EOLhyphen"/>porall,
+appertaining to an earthly judicatory; the judicature of things that
+are ſacred, divine, and eccleſiaſtique, was never <hi>lawfully</hi> conſign'd or
+given to the Civill Magiſtrate, no not to the Empèrour himſelfe; becauſe
+holy things are of another kingdome and cognizance.</p>
+            <p>P. Martyr. Loc. Com. Claſ. 4. loc. 4. ſect. 1.<note n="e" place="margin">
+                  <hi>As he is ci<g ref="char:EOLhyphen"/>ted by</hi> Apollo<g ref="char:EOLhyphen"/>nius, Jus Ma<g ref="char:EOLhyphen"/>jeſtatis circa ſacra. part. 2. <hi>p.</hi> 261. Hinc Martyr ſcribit tantùm ſpiritualibus rerum divinarum judicia de<g ref="char:EOLhyphen"/>ferri oportere.</note> 
+               <hi>affirms,</hi> that the ju<g ref="char:EOLhyphen"/>dicature
+or judgement of ſpirituall things, ought onely to be granted unto
+ſpirituall men.</p>
+            <p>
+               <pb n="13" facs="tcp:154833:9"/>
+Gulielmus Apollonius, <hi>a learned Miniſter in</hi> Zealand, <hi>and yet li<g ref="char:EOLhyphen"/>ving,
+in his writings intituled,</hi> Jus Majeſtatis circa ſacra, <hi>is full of the
+Doctrine contained in the former teſtimonies. In the former part
+of the ſaid book, he begins his fift Chapter thus;</hi>
+               <note n="a" place="margin">Conſcien<g ref="char:EOLhyphen"/>tiae hominum in rebus, purè ſpiritualibus, non ſubjacent Imperio ho<g ref="char:EOLhyphen"/>minum: pote<g ref="char:EOLhyphen"/>ſtate coactivâ armatâ, non imperantur res conſcientiae, quae ſecundum naturam regni Chriſti, quod voluntarium maximè populum depoſcit, procurandae ſunt.</note> The conſciences
+of men, in things purely ſpirituall, are not ſubject to the commands of men:
+matters of conſcience are not commanded by a coactive armed power, but
+to be promoted according to the nature of Chriſts kingdome, which mainly
+requires a willing people. <hi>And a few lines after adds, that</hi>
+               <note n="b" place="margin">Solo Chriſto ſibi Imperium &amp; legiſlationem in Ec<g ref="char:EOLhyphen"/>cleſiam reſervante.</note> Chriſt a<g ref="char:EOLhyphen"/>lone
+reſerves unto himſelfe, the command and legiſlative power over his
+Church.</p>
+            <p>
+               <hi>Againe,</hi> pag. 260.<note n="c" place="margin">Poteſtas igitur Magi<g ref="char:EOLhyphen"/>ſtratus coacti<g ref="char:EOLhyphen"/>va eſt, &amp; invo lu<g ref="char:cmbAbbrStroke">̄</g>tario etiam imperat, juxta Apoſtolum, Rom. 13. Mu<g ref="char:EOLhyphen"/>neris igitur Authoritate judicia Reli<g ref="char:EOLhyphen"/>gionis, quae ſuaſoria ſunt, &amp; tantum vo<g ref="char:EOLhyphen"/>lu<g ref="char:cmbAbbrStroke">̄</g>tario impe<g ref="char:EOLhyphen"/>rant, non ad<g ref="char:EOLhyphen"/>miniſtrat, quà Princeps.</note> Therefore the power of the Magiſtrate is coactive,
+and commands even him that is unwilling, according to the Apoſtle,
+<hi>Rom.</hi> 13. Therefore by the Authoritie of his place, and as a Prince, he doth
+not interpoſe or rule in judgements concerning Religion, which are ſuaſive,
+and beare rule onely over him that is willing. <hi>It were eaſie, if neceſſary,
+out of the writings of men of the moſt approved judgements, and
+greateſt abilities and worth in every kind, ſince the Reformation,
+to make the pile of teſtimonies, for the confirmation of the premi<g ref="char:EOLhyphen"/>ſes,
+far greater. To which alſo, if I intended any large diſcourſe,
+divers Authorities out of the ancient Fathers might be added;
+But I ſhall conclude with that of</hi> Hierome <hi>in</hi> Eſa. <hi>who expreſſeth
+himſelf thus;</hi>
+               <note n="d" place="margin">Utinamſi<g ref="char:EOLhyphen"/>lios heretico<g ref="char:EOLhyphen"/>rum &amp; omni<g ref="char:EOLhyphen"/>um qui decep<g ref="char:EOLhyphen"/>ti ſunt, ſpiri<g ref="char:EOLhyphen"/>tualibꝰ inter<g ref="char:EOLhyphen"/>ficiamꝰ ſagit<g ref="char:EOLhyphen"/>tis, <hi>i.</hi> teſtimo<g ref="char:EOLhyphen"/>niis Scriptu<g ref="char:EOLhyphen"/>rarum.</note> I wiſh we would kill or ſlay the ſons of heretiques, and of
+all thoſe that are deceived, with ſpirituall arrowes, I meane texts and
+teſtimonies of the Scriptures.</p>
+            <p>I ſhall not for the preſent make any further breach upon my
+Readers patience, by any further accumulation of Authors or Te<g ref="char:EOLhyphen"/>ſtimonies.
+I truſt it fully appeares by thoſe already preſented,
+that I have neither ſaid nor written any thing, but what for the
+ſubſtance, ſcope, and import of it, runs parallel with the judge<g ref="char:EOLhyphen"/>ments
+and writings of the moſt orthodox and approved Writers
+of all ages, both ancient and moderne, as well domeſtique as fo<g ref="char:EOLhyphen"/>rein.
+In which reſpect I have a pregnant ground of much confi<g ref="char:EOLhyphen"/>dence,
+that I have not any wayes (eſpecially not <hi>wilfully,</hi> not <hi>pre<g ref="char:EOLhyphen"/>ſumptuouſly)
+violated</hi> the leaſt of the many and great <hi>undoubted privi<g ref="char:EOLhyphen"/>ledges
+<pb n="14" facs="tcp:154833:10"/>
+of Parliament,</hi> having kept my ſelfe ſo cloſe to the ſo gene<g ref="char:EOLhyphen"/>rally
+received and profeſſed principles of mine owne profeſſion.
+The leaſt glimmering of that light, which ſhould diſcover ſuch an
+impious and unchriſtian miſcarriage in me as this, would be as the
+ſhadow of death unto me.</p>
+            <p>But beſides that grand and bloudy ſuggeſtion againſt me, that
+I ſhould <hi>preſumptuouſly and wilfully undermine the undoubted Priviled<g ref="char:EOLhyphen"/>ges
+of Parliament by the very roots,</hi> (a crime which my ſoul from
+the very root abhorreth) there are others of like nature, though
+not degree, wherewith the Gentleman hath ſtain'd his paper here
+and there, which will prove <hi>dead flies</hi> in his own box, not in mine.
+Hee chargeth mee, <hi>p.</hi> 21. that <hi>in ſtead of my Pariſhioners, I have
+gathered an Independent Congregation to my ſelf, out of divers Pariſhes,
+and mine own; that I preſcribe a Covenant to them before they be ad<g ref="char:EOLhyphen"/>mitted
+members of it: that I neglect my Pariſhioners, preaching but ſel<g ref="char:EOLhyphen"/>dome
+unto them, though I receive their tithes.</hi> If theſe things (or al<g ref="char:EOLhyphen"/>moſt
+any one of them) be true, let M<hi rend="sup">r</hi>. <hi>Prynne</hi> keep his honour and
+place at the barre, and let me be hoyſted; but if otherwiſe, <hi>con<g ref="char:EOLhyphen"/>trariorum
+contraria ſint conſequentia.</hi> But let me anſwer.</p>
+            <p>1. I am, and ever have been ſo far from <hi>neglecting my Pariſhi<g ref="char:EOLhyphen"/>oners
+in preaching ſeldome to them,</hi> that it will be acknowledged (I
+verily believe) by ſome hundreds of them, that ſcarce any Mini<g ref="char:EOLhyphen"/>ſter
+in or about the City, or throughout the whole kingdome,
+have been more diligent, laborious, frequent or conſtant, in the
+work of the Miniſtery, then I have been amongſt them from my
+firſt coming unto them, unto this day: For ſeverall yeers toge<g ref="char:EOLhyphen"/>ther
+(without ſome ſpeciall hinderance) I preached conſtantly
+thrice, often four times; ſometimes five or ſix times in a week un<g ref="char:EOLhyphen"/>to
+them. And whereas their Covenant and agreement with mee
+was (under the hands of ſome of them in writing) upon my
+condeſcending to their requeſt, of preaching two expoſitory
+lectures weekly unto them, to finde me an aſſiſtant to preach once
+on the Lords Day, this aſſiſtant, after ſome ſhort continuance, de<g ref="char:EOLhyphen"/>parting
+to a place of better accommodation, whileſt I was able, I
+both continued my two weekly Lectures, and beſides preached
+twice unto them on the Lords Day by my ſelf, when I was able; by
+the ableſt I could procure, when I was not able my ſelf, notwith<g ref="char:EOLhyphen"/>ſtanding,
+I never received ſo much as a penny (to my knowledge)
+<pb n="15" facs="tcp:154833:10"/>
+from any of them, for a whole yeares labour in preaching thoſe
+two weekly Lectures; nor did I receive above 12. 1. 10. s. a yeere for
+them at any time. Since I was neceſſitated to diſcontinue theſe two
+weekly Lectures (for which, as I have ſaid, I received nothing for
+a whole yeare together, nor was likely to receive any thing any
+more; though this was the leaſt ground or reaſon of their diſcon<g ref="char:EOLhyphen"/>tinuance)
+I have upon the requeſt of ſome of them, and that with<g ref="char:EOLhyphen"/>out
+either promiſe or hope of any pecuniary conſideration at all
+from any man, ingaged my ſelf (and performed hitherto, and that
+with advantage) to expound ſome part of the Scripture before
+Sermon on the Lords day, as oft as I ſhould have libertie and op<g ref="char:EOLhyphen"/>portunitie
+to preach my ſelf. Nor did I ever diminiſh my Pari<g ref="char:EOLhyphen"/>ſhioners
+portion in my miniſteriall labours or attendance in the
+leaſt, for that Congregations ſake, which the Gentleman is plea<g ref="char:EOLhyphen"/>ſed
+to baptize by the name of <hi>Independent;</hi> nor did I ever preach to
+this Congregation apart from my Pariſhioners. Sometimes (I con<g ref="char:EOLhyphen"/>feſſe)
+I prayed with them, and now and then debated a queſtion
+in mine own houſe, but ever with my doore open, and libertie gi<g ref="char:EOLhyphen"/>ven
+to any of the Pariſhioners to come and partake in thoſe exer<g ref="char:EOLhyphen"/>ciſes;
+which ſeverall of them have from time to time accepted of,
+and been preſent with us. The reaſon why I preach not to ſome
+of them as oft as I was wont to doe, is onely becauſe they doe not
+come ſo oft to heare me, as they were wont, yea my innocency in
+reſpect of this part of my charge, was fully atteſted under the
+hands of 45. of my Pariſhioners (the greateſt part, if not the whole
+number of them, being of the beſt affected both to Parliament and
+Religion in the whole Pariſh) in a Petition tendered unto the
+Honourable Committee, before which I was called, for my con<g ref="char:EOLhyphen"/>tinuance
+with them.</p>
+            <p>2. Whereas I am charged with <hi>receiving their tiths;</hi> my anſwer
+is,<note place="margin">The Parſon<g ref="char:EOLhyphen"/>age is impro<g ref="char:EOLhyphen"/>priate in the Pariſhioners hands: the vicarage one<g ref="char:EOLhyphen"/>ly endowed with 11. l. <hi>per Annum.</hi>
+               </note> that I demand no tiths of any of them; nor have I, or ever had
+I any right to doe it; Nor have I ever received any thing from
+them in the nature of tiths, but as their voluntary Contribution;
+For this laſt half yeere I have received very little above 20. l. (ex<g ref="char:EOLhyphen"/>cepting
+onely the one half of the yeerly rent of a ſmall houſe, let
+ſometimes but for 12, never for above 14. l. a yeer.) Out of which
+ſumme, 12. l. 10. s. being deducted for the rent of my houſe, the
+remainder is of as low a proportion, as envie her ſelfe lightly can
+<pb n="16" facs="tcp:154833:11"/>
+deſire for the maintenance of a Miniſter, his wife, and 7 children,
+(moſt of them very ſmall) in ſuch an expenſive place as this City
+is. But if Mr. <hi>Prynne</hi> knew how ſmall a proportion of ſubſiſtence
+it is that I now receive, and what my labour &amp; pains are amongſt
+<hi>my Pariſhioners</hi> notwithſtanding, I verily beleeve, that in ſtead of
+upbraiding me with <hi>receiving Tithes,</hi> he would pity me that I
+receive no more. It is well knowne that there are many Mini<g ref="char:EOLhyphen"/>ſters
+in and about the Citie, that receive more for preaching once
+a week; yea divers for preaching but once a fortnight, then I doe
+for preaching twice weekly, beſides my labour in expounding,
+not much ſhort of that in preaching; and yet I think there is no
+man that judgeth their conſideration greater then their work.
+But as for thoſe who found themſelves aggrieved, and appeared
+petitioners againſt me, I underſtand by the Church-warden, who
+gathereth that ſlender allowance w<hi rend="sup">ch</hi> my Pariſhioners amongſt
+them think me worthy of, that they have made a very provi<g ref="char:EOLhyphen"/>dent
+uſe of their exceptions againſt me, and have ſav'd their pur<g ref="char:EOLhyphen"/>ſes
+harmleſſe for a long time.</p>
+            <p>3. <hi>Whereas he chargeth me</hi> to have gathered an Indepen<g ref="char:EOLhyphen"/>dent
+Congregation to my ſelfe out of divers Pariſhes and mine own, <hi>I
+anſwer:</hi>
+            </p>
+            <p>1. That I know not what he means by <hi>gathering.</hi> If his meaning
+be, that I have gone about from place to place (as <hi>gathering,</hi> eſpe<g ref="char:EOLhyphen"/>cially
+of ſeverall things into one band or bundle, imports) to de<g ref="char:EOLhyphen"/>ſire
+or perſwade any man, man or woman, rich or poore, young
+or old, to be of my Congregation, or to the way wherein my
+Congregation walketh, I utterly deny the truth of this charge. I
+I never opened my mouth to any perſon whatſoever to any ſuch
+purpoſe, ſave only what I have publickly preached in the courſe
+of my Miniſtery in the face of my Parochiall Congregation. And
+what I have here ſaid in this kind, there are many hundreds, if
+not ſome thouſands to teſtifie. If by <hi>gathering</hi> ſuch a Congrega<g ref="char:EOLhyphen"/>tion
+as he ſpeakes of, he means the receiving of perſons upon
+their Chriſtian requeſts and deſires in a Church relation, and ſo as
+to become a Paſtor unto them, in this ſenſe (which is yet very
+unproperly called a gathering) I confeſſe this part of the charge
+(or commendation rather) to be in part true; I have with the
+conſent of my Pariſhioners in a publick Veſtry, received ſome
+<pb n="17" facs="tcp:154833:11"/>
+out of other Pariſhes in ſuch a way; who yet have liberty upon
+requeſt at any time (yea and without requeſt, if they thinke not
+good to make it) to withdraw themſelves to any other Paſtor or
+Congregation, for their better accommodation in their ſpirituall
+affaires. Of what I have done in this, I am ready to give an ac<g ref="char:EOLhyphen"/>count
+with meekneſſe, unto any man that ſhall require it of
+me. But</p>
+            <p>2. Whereas I am further charged <hi>to preſcribe a covenant to
+them before they are admitted,</hi> I anſwer, let them all be called be<g ref="char:EOLhyphen"/>fore
+a Magiſtrate, and (if it be thought meet) examined upon
+oath, (though I beleeve there be very few of them but will ſpeak
+the truth without any ſuch ingagement) I doe not think there is
+any one of them that can ſay that there ever was any other cove<g ref="char:EOLhyphen"/>nant
+preſcribed to them in reference to their admiſſion, but onely
+their conſent of walking with us, and that teſtified by them<g ref="char:EOLhyphen"/>ſelves
+(without any preſcription or injunction by me or others)
+in their own free deſire and requeſt of comming in to us. As for
+thoſe agreements that were drawn in writing in a Pariſh Veſtry,
+&amp; which were brought in by me to the Committee before which
+I was called, beſides that I had no more an hand then divers o<g ref="char:EOLhyphen"/>thers
+in the draught or forming of them, they were never urged
+nor preſſed upon any for their admiſſion; but whoſoever ex<g ref="char:EOLhyphen"/>preſſed
+any deſire of comming in unto us, and joyning with us,
+if there were any Chriſtian ground to judge them meet for ſuch a
+relation, they were without any further covenanting entertained
+by us.</p>
+            <p>3. (And laſtly to the charge in hand) whereas hee calls this
+Congregation of mine, <hi>Independent,</hi> by way of oppoſition to
+the Pariſhionall Congregation; my anſwer is, that I cannot un<g ref="char:EOLhyphen"/>derſtand,
+why or wherefore the one ſhould be termed <hi>Indepen<g ref="char:EOLhyphen"/>dent,</hi>
+more then the other. I verily beleeve, that that which is
+called <hi>Independent,</hi> depends every whit as much upon God, upon
+the Scriptures, upon Principles of reaſon and equity, as the other,
+and claimes as little exemption from the authority or juriſdicti<g ref="char:EOLhyphen"/>on
+of any of theſe, as the other. And the truth is, that <hi>dependency</hi>
+upon theſe, is as much (for matter of <hi>dependencie</hi>) as can with
+reaſon or good conſcience bee required or expected from any
+man. Dependencie upon man, is pronounced accurſed by God.
+<pb n="18" facs="tcp:154833:12"/>
+               <hi>Curſed be the man that truſteth in man, and maketh fleſh his arm, Jer.</hi>
+17. 5. Or if by <hi>Independent,</hi> he means, that which will not ſub<g ref="char:EOLhyphen"/>mit
+in the government of it, to that which ſhall be recommen<g ref="char:EOLhyphen"/>ded
+or impoſed upon i<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by an Eccleſiaſtique authority ſuperior
+to it ſelfe; I anſwer, 1. That that which beares the heat and
+burthen of the name, cannot as yet (however) be called ſo, more
+then the other; becauſe there is nothing at all yet either recom<g ref="char:EOLhyphen"/>mended
+unto, or impoſed upon either, by any ſuch authority
+2. Though haply it likes not <hi>Impoſition</hi> ſo cordially altogether
+as the other, yet let that which ſhall be <hi>impoſed,</hi> be according to
+the will of God, and mind of Chriſt, if God will pleaſe to give
+eyes unto it, whereby to ſee it, confident I am, (and doe hereby
+engage my ſelfe for it as farre as my intereſt reacheth) that it
+will and ſhall ſubmit as willingly, as cheerfully thereunto, as
+the other. If he therefore aſperſeth it with the name of <hi>Inde<g ref="char:EOLhyphen"/>pendent,</hi>
+becauſe it will not ſay, <hi>God ſpeed</hi> to him that bringeth the
+Doctrine of <hi>blind obedience</hi> unto it; I truſt it will (I am ſure it
+may) ſit down by the reproach, as by its glory. I am all thoughts
+made with the fulleſt aſſurance, that (for the generality of them)
+as well the Perſons as Congregations in the land ſir-named (but
+far out of the propriety of the word) <hi>Independent,</hi> will as ſoon
+ſubmit to be <hi>led</hi> by <hi>a young child</hi> (as the Prophet ſpeaks) in a way
+of reaſon and truth diſcovered unto them (much more by men of
+wiſdome and place) as any other either Perſons or Congregati<g ref="char:EOLhyphen"/>ons
+whatſoever in the land.</p>
+            <p>Whereas my learned Accuſer further taxeth me, as having re<g ref="char:EOLhyphen"/>fuſed
+to baptize ſome children, and to adminiſter the Sacrament
+to my Pariſh for ſome months; I anſwer,</p>
+            <p>1. That for the latter, I have done nothing in it, but what hath
+been done by very many godly Miniſters in and about the Citie,
+(as is known to thouſands) yea moſt of them (if not all) of a
+different judgment from mine in the point of Church govern<g ref="char:EOLhyphen"/>ment,
+yea ſome of them (if my memory deales faithfully with
+me) of the Aſſembly it ſelfe.</p>
+            <p>2. I proffered unto that honorable Committee before whom
+was called, that if either themſelves, or any other would pleaſe to
+aſſigne me a rule by which I might ſafely walk in that admini<g ref="char:EOLhyphen"/>ſtration,
+I ſhould be willing to take up again what I had laid
+<pb n="19" facs="tcp:154833:12"/>
+down for a ſeaſon, and to accommodate with my Pariſhioners in
+that ordinance. For as for the rule preſcribed by the Rubrick in
+the book of Common prayer, themſelves ſeemed not ſo well ſa<g ref="char:EOLhyphen"/>tisfied
+with it.</p>
+            <p>3. For ſome of thoſe, who out of the ſmart of this ſoare peti<g ref="char:EOLhyphen"/>tioned
+againſt me, I beleeve they are ſo farre diſadvantaged by
+an incapacity of this ordinance, that the largeſt charity of a con<g ref="char:EOLhyphen"/>ſcientious
+Miniſter (of what judgment ſoever for Church<g ref="char:EOLhyphen"/>government)
+would not redeem them.</p>
+            <p>4. Whereas ſeverall Miniſters in and about the Citie, yea
+ſome of good report and eſteeme; nor ſhould I miſtake for mat<g ref="char:EOLhyphen"/>ter
+of truth (whatever I may doe in point of good manners) if
+I ſhould ſay, ſome very neer related unto the Aſſembly it ſelfe,
+have demanded and had pretty conſiderable ſummes, ſome twen<g ref="char:EOLhyphen"/>ty
+pound, thirty pound, yea ſome fourty pound a yeare of their
+Pariſhioners onely for their conſent and leave that the Goſpell
+might be preached unto them out of their Pulpits, by ſuch a Mi<g ref="char:EOLhyphen"/>niſter
+or Lecturer as they ſhould chuſe; I have been ſo far from
+tying my Pariſhioners to this appletree, that I not only gave my
+conſent freely unto them to chuſe what Miniſter they pleaſed,
+either to preach or to deliver the Sacrament unto them, but
+further offered them twenty, thirty, yea, if it were fourty pound a
+year out of mine own allowance (in caſe they would ſtil continue
+it to their former proportion; for otherwiſe I could not be able)
+toward the making up a valuable conſideration unto him for his
+pains whom they ſhould chuſe in ſuch a way.</p>
+            <p>5. (And laſtly) for the latter; I confeſſe, that ſince my firſt
+comming to the place and people with whom I yet am (which
+wants but a little of eleven yeares compleat) I have refuſed the
+baptizing of two or three children of my Pariſh; but upon
+ſuch grounds, the opening whereof (if it were meet to publiſh
+them) would (I verily beleeve) make all conteſtation and com<g ref="char:EOLhyphen"/>plaint
+againſt me in this behalfe aſhamed. I feare, I have made
+my ſelfe a farre greater tranſgreſſor, by not refuſing, then by re<g ref="char:EOLhyphen"/>fuſing
+in this kind. And beſides, if my intelligence will beare
+the weight of that confidence which I lay upon it (as I think
+it will) in caſe ſuch omiſſions or refuſals as theſe, be juſt matter of
+offence, the Aſſembly it ſelf wil not in all the Presbyterian mem<g ref="char:EOLhyphen"/>bers
+thereof be found innocent.</p>
+            <p>
+               <pb n="20" facs="tcp:154833:13"/>
+The third and laſt grievance of which I complain in my over<g ref="char:EOLhyphen"/>offended
+adverſary, and petition the wits and charity of men in
+all their conjunctions throughout the world for reliefe; is his
+extraction of ſo many crooked concluſions of his own out of my
+ſtreight premiſes. It is ſomewhat an hard caſe, when one man
+ſhall beget children, and another be made to keep them. Becauſe
+I ſay in my Epiſtle, that <hi>there is cauſe to feare, leſt the truth, which
+onely is able to make us free, ſhould by being rejected and oppoſed by us,
+increaſe our bondage and miſery:</hi> And becauſe I onely cite that ſay<g ref="char:EOLhyphen"/>ing
+of <hi>Nazianzene,</hi> p. 44. that <hi>he never ſaw good end, or deſirable
+ſucceſſe of any Councell, or that they procured any decreaſe, but rather
+increaſe of evils,</hi> with ſome few other as innnocent and well meant
+ſayings as theſe, he chargeth me (p. 18. l. 1.) with <hi>tacitly reflect<g ref="char:EOLhyphen"/>ing
+upon the preſent religious Parliament and Aſſembly, raiſing need<g ref="char:EOLhyphen"/>leſſe
+feares and jealouſies of them both in matters of Religion and
+Church government, as if they really intended to increaſe our miſery
+and bondage, by rejecting and oppreſſing Truth.</hi> Surely the worſt di<g ref="char:EOLhyphen"/>geſtion
+that ever was, never made ſuch gall of ſuch hony in any
+mans ſtomach. I wonder what Logicall ſympathy, or Symboli<g ref="char:EOLhyphen"/>call
+property there is between my foundations, and Mr. <hi>Prynnes</hi>
+ſuperſtructions? They have not ſo much as a quartile aſpect the
+one upon the other. Becauſe I ſay, <hi>There is cauſe to feare, leſt the
+truth being rejected and oppoſed, ſhould increaſe our bondage and miſe<g ref="char:EOLhyphen"/>ry,</hi>
+(which is nothing elſe but what the Scriptures themſelves will
+abundantly juſtifie and warrant) doth it therefore follow, that I
+<hi>reflect, or raiſe needleſſe feares and jealouſies, either of Parliament, or
+Aſſembly?</hi> When the Apoſtle <hi>Paul</hi> wrote thus to the whole
+Church of Corinth: <hi>Know yee not that the unrighteous ſhall not in<g ref="char:EOLhyphen"/>herit
+the Kingdome of God? Be not deceived; neither fornicators, nor
+idolaters, nor adulterers, nor theeves, &amp;c. ſhall inherit the Kingdome
+of God;</hi> did he reflect upon the chiefe perſons amongſt them, or
+<hi>raiſe needleſſe feares and jealouſies of them</hi> in the mindes of
+the reſt, as if he ſuſpected them more then others for the practice
+of ſuch ſins? Was it not a ſerious admonition, a cautionary do<g ref="char:EOLhyphen"/>ctrine
+that equally reſpected them all, without the leaſt accuſa<g ref="char:EOLhyphen"/>tion
+of any? I doe not ſay, that <hi>there is cauſe to feare leſt the truth
+ſhould be rejected</hi> or oppreſſed by any, or any ſort or rank of per<g ref="char:EOLhyphen"/>ſons
+amongſt us; I onely profeſſe my feare, that in caſe it ſhall
+<pb n="21" facs="tcp:154833:13"/>
+be no better intreated by us, it will increaſe our bondage and mi<g ref="char:EOLhyphen"/>ſery,
+from what rank or ſort of men ſoever amongſt us it ſhall ſuf<g ref="char:EOLhyphen"/>fer
+in that kind. Such dealings as theſe with a mans harmleſſe and
+in offenſive ſayings, are a temptation of like tendency and danger,
+with that which <hi>David</hi> encountred, when he reaſoned thus with
+himſelf; <hi>Verily I have cleanſed my heart in vain, and waſhed my hands in
+innocency.</hi> If a man had the leaſt mind to pick a quarrell againſt all
+faire and faultleſſe ſpeaking, and to ſpeak nothing but ſwords,
+and ſpears, and hot burning coals for the time to come, ſuch con<g ref="char:EOLhyphen"/>ſtructions
+as theſe are, are proper nouriſhment for ſuch an incli<g ref="char:EOLhyphen"/>nation
+to feed fat upon; yea enough to ſet the <hi>ſmoaking flax</hi> into a
+lightſome <hi>flame.</hi> But that God, whoſe Grace hath been ſhield
+and buckler unto mine innocency in this kinde hitherto, will (I
+truſt) protect it by the ſame hand, in the midſt of theſe and all o<g ref="char:EOLhyphen"/>ther
+provocations whatſoever, untill the day of its coronation.
+Jeſus Chriſt did not give over his gracious occupation of caſting
+out Devils, becauſe ſome charged him that through <hi>Beelzebub</hi> he
+caſt them out. <hi>Malè audire, cùm benè feceris, Regium eſt.</hi> Some o<g ref="char:EOLhyphen"/>ther
+impeachments there are of like nature with this, managed
+againſt me in that paper, which hath interrupted my peace and
+ſtudies hitherto; but it is the fate of ungrounded imputations,
+<hi>Spreta exoleſcunt,</hi> they ſoone <hi>wax old and vaniſh away,</hi> if they be
+neglected.</p>
+            <p>Thus have I fairly, and (I truſt) fully acquitted my ſelfe in all
+things charged upon me, by way of demerit, and crime, in M<hi rend="sup">r</hi>.
+<hi>Prynnes</hi> Obſervations. What further is charg'd herein upon me by
+way of weakneſſe, and inſufficiency, in point of argument and rea<g ref="char:EOLhyphen"/>ſon;
+I muſt crave a few dayes reſpit, and I doubt not but I ſhall
+bring in a faire account of this charge alſo. As for that emptie
+Pamphlet, called <hi>Faces about;</hi> the Author of it, what <hi>face</hi> or <hi>faces
+ſoever he had</hi> (for it may be he carries two in a hood) it ſeemes he
+dares ſhew none. He feares his Name would have ſuffered, if it
+had been ſeen in the company of ſuch a piece. Yet the truth is,
+that the paper is a glaſſe, and there is the face of a man (ſuch as
+it is) to be ſeene in it. The man that looks out from behind the
+lattiſes of the lines of it, is ignorant that the Lord of glory was
+numbred amongſt tranſgreſſors, and crucified between two
+<pb n="22" facs="tcp:154833:14"/>
+theeves: or elſe he would never have thought to diſparage me,
+by putting me into the ſame account with <hi>Socinians</hi> and <hi>Armini<g ref="char:EOLhyphen"/>ans.</hi>
+It is the ſaying of a Roman Hiſtorian: <hi>Poſt Carthaginem, vin<g ref="char:EOLhyphen"/>ci
+neminem puduit;</hi> After <hi>Carthage</hi> was taken by the Romans, no
+Citie or Nation thought it any diſcredit to be overcome by them.
+Jeſus Chriſt being crucified with malefactors, hath ſpoyl'd their
+market, that deſire to ſell mens reputations under diſgrace, by
+coupling them with names or perſons of any infamous reſentment
+whatſoever.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154833:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
